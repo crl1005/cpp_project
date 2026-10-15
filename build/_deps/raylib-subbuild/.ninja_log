@@ -1,0 +1,21 @@
+# ninja log v7
+2	83	8134717500892418	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	4eca866c4c8f36ad
+2	83	8134717500892418	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	4eca866c4c8f36ad
+83	93880	8134718438843079	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	822f7f52cc353789
+83	93880	8134718438843079	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	822f7f52cc353789
+93880	94131	8134718438932840	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	e5b37cccecbcc31f
+93880	94131	8134718438932840	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	e5b37cccecbcc31f
+94131	94259	8134718442625479	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	f8a61c2f774894b1
+94131	94259	8134718442625479	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	f8a61c2f774894b1
+94259	94368	8134718443722542	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	34c881c1dea5e7d7
+94259	94368	8134718443722542	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	34c881c1dea5e7d7
+94368	94491	8134718444939288	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	2ef7f19bcbd0b939
+94368	94491	8134718444939288	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	2ef7f19bcbd0b939
+94491	94577	8134718445816936	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	a8ebdec3d292892b
+94491	94577	8134718445816936	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	a8ebdec3d292892b
+94577	94681	8134718446854174	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	25b490ad5366a0dd
+94577	94681	8134718446854174	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	25b490ad5366a0dd
+94681	94791	8134718447971189	CMakeFiles/raylib-populate-complete	2bc6675954e6b867
+94681	94791	8134718447971189	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	2bc6675954e6b867
+94681	94791	8134718447971189	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	2bc6675954e6b867
+94681	94791	8134718447971189	C:/Users/crlny/cpp_project/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	2bc6675954e6b867
